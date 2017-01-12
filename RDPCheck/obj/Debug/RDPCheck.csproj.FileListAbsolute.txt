@@ -1,0 +1,27 @@
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\bin\Debug\RDPCheck.exe.config
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\bin\Debug\RDPCheck.exe
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\bin\Debug\RDPCheck.pdb
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\obj\Debug\RDPCheck.csprojResolveAssemblyReference.cache
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\obj\Debug\RDPCheck.Properties.Resources.resources
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\obj\Debug\RDPCheck.csproj.GenerateResource.Cache
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\obj\Debug\RDPCheck.exe
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\obj\Debug\RDPCheck.pdb
+u:\visual studio 2015\Projects\RDPCheck\RDPCheck\obj\Debug\RDPCheck.frmRDPSessionChecker.resources
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\bin\Debug\RDPCheck.exe.config
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.exe
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.pdb
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\bin\Debug\RDPCheck.exe
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\bin\Debug\RDPCheck.pdb
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.csprojResolveAssemblyReference.cache
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.frmRDPSessionChecker.resources
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.Properties.Resources.resources
+U:\Visual Studio 2015\Projects\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.csproj.GenerateResource.Cache
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\bin\Debug\RDPCheck.exe.config
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.exe
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.pdb
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\bin\Debug\RDPCheck.exe
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\bin\Debug\RDPCheck.pdb
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.frmRDPSessionChecker.resources
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.Properties.Resources.resources
+C:\Users\Liam\Downloads\RDPCheck - Copy\RDPCheck\obj\Debug\RDPCheck.csproj.GenerateResource.Cache
